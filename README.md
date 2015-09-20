@@ -1,3 +1,8 @@
+<!-- .slide: data-background="custom/images/barcelona-splash.jpg" -->
+
+
+
+
 # Future of Mentoring
 ### DrupalCon Barcelona 2015
 

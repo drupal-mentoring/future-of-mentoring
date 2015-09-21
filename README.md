@@ -64,4 +64,32 @@ Note:
 
 
 
+## To accomplish the vision
+
+
+
+## Make it easier for people to find relevant first issues
+
+
+
+## Have instructions on the issue for how to work on the issue
+
+
+
+## Tell people which issue are workable
+
+
+
+## New contributors can easily get and use tools
+
+
+
+## Mentors who have not been to an in person event can start mentoring locally
+
+
+
+## Mentors do more "real" mentoring
+
+
+
 ## Conversation

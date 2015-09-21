@@ -15,9 +15,9 @@ Note:
 
 
 
-## Presenters
+## Cathy Theys
 
-<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> Cathy Theys</a>
+<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a>
 
 <a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
 
@@ -26,9 +26,9 @@ Note:
 
 
 
-## Presenters
+## Alina Mackenzie
 
-<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> Alina Mackenzie</a>
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a>
 
 <a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
 
@@ -37,9 +37,9 @@ Note:
 
 
 
-## Presenters
+## David Hernández
 
-<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernandez</a>
+<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernández</a>
 
 <a href="https://twitter.com/david_baltha"><i class="fa fa-twitter"></i> david_baltha</a>
 

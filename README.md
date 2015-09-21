@@ -72,15 +72,23 @@ Note:
 
 
 
-## 2332789</h1>
+## 2332789
 <a href="https://www.drupal.org/node/2332789">Reduce Novice Contribution differences and<br>
-  consolidate novice contribution landing pages,<br> content, blocks</a></p>
+  consolidate novice contribution landing pages,<br> content, blocks</a>
 
 Note:
   an issue to redesign and consolidate and remove duplicate docs
   <br>Dashboard
   <br>sidebar
   <br>Landing page
+
+
+
+##1290740
+<a href="https://www.drupal.org/node/1290740">How to label, aggregate and expose issues, docs, forum posts and groups to Topic pages</a>
+
+Note:
+  something
 
 
 

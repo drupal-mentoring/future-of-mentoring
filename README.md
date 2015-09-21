@@ -72,6 +72,18 @@ Note:
 
 
 
+## 2332789</h1>
+<a href="https://www.drupal.org/node/2332789">Reduce Novice Contribution differences and<br>
+  consolidate novice contribution landing pages,<br> content, blocks</a></p>
+
+Note:
+  an issue to redesign and consolidate and remove duplicate docs
+  <br>Dashboard
+  <br>sidebar
+  <br>Landing page
+
+
+
 ## Have instructions on the issue for how to work on the issue
 
 

@@ -17,12 +17,34 @@ Note:
 
 ## Presenters
 
-<a href="https://www.drupal.org/u/user"><i class="fa fa-drupal"></i> user</a>
+<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> Cathy Theys</a>
 
-<a href="https://twitter.com/user"><i class="fa fa-twitter"></i> user</a>
+<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
 
 Note:
 - About presenter
+
+
+
+## Presenters
+
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> Alina Mackenzie</a>
+
+<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
+
+Note:
+- About presenter
+
+
+
+## Presenters
+
+<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernandez</a>
+
+<a href="https://twitter.com/david_baltha"><i class="fa fa-twitter"></i> david_baltha</a>
+
+Note:
+- Local group organizer, part of the spanish community, experienced mentor.
 
 
 

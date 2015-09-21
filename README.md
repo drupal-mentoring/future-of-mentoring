@@ -45,3 +45,23 @@ Note:
 
 Note:
 - Local group organizer, part of the spanish community, experienced mentor.
+
+
+
+## Past
+
+
+
+## Present
+
+
+
+## Vision of the Future
+
+
+
+## Measures of successful mentoring
+
+
+
+## Conversation

@@ -225,6 +225,10 @@ Note:
 
 ##### Mentor MailChimp integration with events.drupal.org
 
+##### 2572663
+<a href="https://www.drupal.org/node/2572663">Integrate Mentor sign-up with
+MailChimp list</a>
+
 Note:
   - Right now, after mentor fills out the drupalcon webform, and email gets sent
     and the mentor communication lead copy and pastes into mailchimp. There is
@@ -233,6 +237,10 @@ Note:
 
 
 ##### Automate html list of mentors on events.drupal.org
+
+##### 2239073
+<a href="https://www.drupal.org/node/2239073">Figure out how to automatically
+generate list of mentors HTML</a>
 
 Note:
   - Right now, the communication lead also copy and pastes out of that same

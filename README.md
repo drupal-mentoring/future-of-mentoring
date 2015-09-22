@@ -50,6 +50,12 @@ Note:
 
 ## Past
 <!-- .element: class="heading" -->
+> <i class="fa fa-quote-left"></i>
+> You are not defined by your past. You are prepared by your past.
+> <i class="fa fa-quote-right"></i>
+
+Note:
+- to talk about where we are going, we must acknowledge where we have been and where we are now
 
 
 

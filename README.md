@@ -126,9 +126,9 @@ Note:
 ## Present
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
-> Look closely at the present you are constructing. It should look like the future you are dreaming.
+> Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present.
 > <i class="fa fa-quote-right"></i>
-> <span>&mdash; Alice Walker</span>
+> <span>&mdash; Bil Keane</span>
 <!-- .element: class="quote-source" -->
 
 Note:

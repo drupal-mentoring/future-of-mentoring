@@ -196,6 +196,11 @@ Note:
 
 ## Vision of the future
 <!-- .element: class="heading" -->
+> <i class="fa fa-quote-left"></i>
+> The best way to predict the future is to invent it.
+> <i class="fa fa-quote-right"></i>
+> <span>&mdash; Alan Kay</span>
+<!-- .element: class="quote-source" -->
 
 
 

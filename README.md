@@ -112,6 +112,9 @@ Note:
 ## Present
 <!-- .element: class="heading" -->
 
+Note:
+- What has happened in the past few months?
+
 
 
 ### Drupal Association support
@@ -127,7 +130,9 @@ Note:
 ### [groups.drupal.org/mentoring](http://groups.drupal.org/mentoring)
 
 Note:
-goal:  make mentoring wisdom more distributed and the activities that are being done more transparent
+goal: make mentoring wisdom more distributed and the activities that are being done more transparent
+- announce monthly mentor meetings
+- post meeting minutes
 
 
 
@@ -135,6 +140,7 @@ goal:  make mentoring wisdom more distributed and the activities that are being 
 
 Note:
 goal: having the todo lists discoverable and any d.o user able to comment, edit and work on them without having to get permission in a separate system (google docs, another site, trello)
+- track tasks as issues
 
 
 

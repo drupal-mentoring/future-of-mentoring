@@ -306,6 +306,15 @@ Messages for Users & Visitors</a>
 
 
 
+##### 2233509
+<a href="https://www.drupal.org/node/2233509">tools</a>
+
+Note:
+  - might have a "better" solution when bandwidth is not an issue.
+    but need to consider ADD/native when wifi is a problem
+
+
+
 #### Mentors who have not been to an in person event can start mentoring locally
 
 

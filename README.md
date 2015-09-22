@@ -108,6 +108,61 @@ Note:
 
 
 
+### Drupal Association support
+
+Note:
+- documented *all* of the sprint planning tasks
+- DA staff implementing sprint planning tasks
+- Financial support: sprint task cards, stickers, lunch, (more) signs, booth
+
+
+
+
+### [groups.drupal.org/mentoring](http://groups.drupal.org/mentoring)
+
+Note:
+goal:  make mentoring wisdom more distributed and the activities that are being done more transparent
+
+
+
+### [drupal.org/project/mentoring](https://www.drupal.org/project/mentoring)
+
+Note:
+goal: having the todo lists discoverable and any d.o user able to comment, edit and work on them without having to get permission in a separate system (google docs, another site, trello)
+
+
+
+### Documentation
+
+Note:
+- [Mentoring at Drupal events]()
+- [Mentor lead responsibilities]()
+
+
+
+### Integration with general sprint
+
+Note:
+- Los Angeles 2015, core commit happened around 2pm, earliest ever
+- Core mentored sprint room emptied out, remaining first time contributors join general sprint room and continue their work together with experienced contributors and initiative leads
+
+
+
+### Communications
+
+Note:
+- improved mentor communications using MailChimp starting with Bogota
+
+
+
+### Word is out!
+
+Note:
+- Drupal success with getting new contributors involved and mentoring
+- other open source projects interested and investigating drupal mentoring techniques
+
+
+
 ## Vision of the future
 <!-- .element: class="heading" -->
 

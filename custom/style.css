@@ -41,11 +41,8 @@
   font-size: medium;
 }
 
-h2.heading {
-  background-color: rgba(255, 255, 255, 0.75);
-  color: rgba(22,22,22,1);
-  padding: 0.5em 2em;
-  display: inline-block;
+.reveal h1,h2.heading {
+  color: #00FF40;
 }
 
 h2.heading.invert {

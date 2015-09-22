@@ -262,7 +262,8 @@ Note:
 
 
 ##### 2332789
-<a href="https://www.drupal.org/node/2332789">Reduce Novice Contribution differences and<br>
+<a href="https://www.drupal.org/node/2332789">Reduce Novice Contribution
+differences and<br>
   consolidate novice contribution landing pages,<br> content, blocks</a>
 
 Note:
@@ -274,7 +275,8 @@ Note:
 
 
 ##### 1290740
-<a href="https://www.drupal.org/node/1290740">How to label, aggregate and expose issues, docs, forum posts and groups to Topic pages</a>
+<a href="https://www.drupal.org/node/1290740">How to label, aggregate and expose
+issues, docs, forum posts and groups to Topic pages</a>
 
 Note:
   something
@@ -320,6 +322,9 @@ Note:
 
 
 #### Mentors who have not been to an in person event can start mentoring locally
+
+Note:
+  - Need more detailed, facilitator and lead, instructions.
 
 
 

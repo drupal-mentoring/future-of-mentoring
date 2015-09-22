@@ -207,11 +207,11 @@ Note:
 
 
 
-### Make it easier for people to find relevant first issues
+#### Make it easier for people to find relevant first issues
 
 
 
-### 2332789
+##### 2332789
 <a href="https://www.drupal.org/node/2332789">Reduce Novice Contribution differences and<br>
   consolidate novice contribution landing pages,<br> content, blocks</a>
 
@@ -223,7 +223,7 @@ Note:
 
 
 
-### 1290740
+##### 1290740
 <a href="https://www.drupal.org/node/1290740">How to label, aggregate and expose issues, docs, forum posts and groups to Topic pages</a>
 
 Note:
@@ -231,19 +231,19 @@ Note:
 
 
 
-### Have instructions on the issue for how to work on the issue
+#### Have instructions on the issue for how to work on the issue
 
 
 
-### Tell people which issue are workable
+#### Tell people which issue are workable
 
 
 
-### New contributors can easily get and use tools
+#### New contributors can easily get and use tools
 
 
 
-### Mentors who have not been to an in person event can start mentoring locally
+#### Mentors who have not been to an in person event can start mentoring locally
 
 
 

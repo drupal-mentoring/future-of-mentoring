@@ -49,13 +49,15 @@ Note:
 
 
 ## Past
+<!-- .element: class="heading" -->
+
+
+
 ### 2011
-<ul>
-    <li>Issue summary initiative</li>
-    <li>IRC Office Hours</li>
-    <li>Usage of “needs...” tags</li>
-    <li>Spreadsheet to track attendance and skill level</li>
-</ul>
+- Issue summary initiative
+- IRC Office Hours
+- Usage of “needs...” tags
+- Spreadsheet to track attendance and skill level
 
 Note:
 - xjm starts teh Issue summary initiative.
@@ -64,14 +66,11 @@ Note:
 
 
 
-## Past
 ### 2012
-<ul>
-    <li>First contributor tasks document.</li>
-    <li>First DrupalCon sprints: Core Office Hours Sprint</li>
-    <li>Live commit</li>
-    <li>drupalmentoring.org</li>
-</ul>
+- First contributor tasks document.
+- First DrupalCon sprints: Core Office Hours Sprint
+- Live commit
+- drupalmentoring.org
 
 Note:
 - jhodgdon creates first contributor tasks document as central place for people to find out how they could contribute to Drupal.
@@ -81,26 +80,20 @@ Note:
 
 
 
-## Past
 ### 2013
-<ul>
-    <li>Drupal.org upgraded to D7, caused the lack of drupalmentoring.org.</li>
-    <li>Now people wrotes on the comments what they are planning to do</li>
-</ul>
+- Drupal.org upgraded to D7, caused the lack of drupalmentoring.org.
+- Now people wrotes on the comments what they are planning to do
 
 Note:
 - The upgrade broke the JSON feature, breaking drupalmentoring.org
 
 
 
-## Past
 ### 2014
-<ul>
-    <li>Dreditor remaining tasks template</li>
-    <li>4th mentored sprint, with mentor t-shirts</li>
-    <li>Acquia Dev Desktop</li>
-    <li>Contributor task cards</li>
-</ul>
+- Dreditor remaining tasks template
+- 4th mentored sprint, with mentor t-shirts
+- Acquia Dev Desktop
+- Contributor task cards
 
 Note:
 - Dreditor added the button to add the remaining tasks template.

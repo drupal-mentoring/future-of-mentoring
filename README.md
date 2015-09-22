@@ -297,6 +297,11 @@ Messages for Users & Visitors</a>
 
 
 
+##### 2572061
+<a href="https://www.drupal.org/node/2572061">Add a dismissable notification when somebody goes to a core issue while in RC</a>
+
+
+
 #### New contributors can easily get and use tools
 
 

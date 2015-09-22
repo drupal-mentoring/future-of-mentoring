@@ -213,6 +213,34 @@ Note:
 
 
 
+#### Moar automation
+
+Note:
+  - Mentor Leads have responsibilities that can be automated.
+    Mentors have skills that would be better used on tasks that need thought.
+    Use automation to free up the mentors to mentor, or do other process
+    improvements.
+
+
+
+##### Mentor MailChimp integration with events.drupal.org
+
+Note:
+  - Right now, after mentor fills out the drupalcon webform, and email gets sent
+    and the mentor communication lead copy and pastes into mailchimp. There is
+    api integration, let's use it.
+
+
+
+##### Automate html list of mentors on events.drupal.org
+
+Note:
+  - Right now, the communication lead also copy and pastes out of that same
+    email and manually edits the list of mentors. We have views, and there is
+    no need to wait for "human approval" of mentors. Let's automate it.
+
+
+
 #### Make it easier for people to find relevant first issues
 
 

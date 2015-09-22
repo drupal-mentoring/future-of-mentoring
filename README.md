@@ -73,7 +73,7 @@ Note:
 
 
 ### 2012
-- First contributor tasks document.
+- First contributor tasks document
 - First DrupalCon sprints: Core Office Hours Sprint
 - Live commit
 - drupalmentoring.org

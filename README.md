@@ -53,6 +53,8 @@ Note:
 > <i class="fa fa-quote-left"></i>
 > You are not defined by your past. You are prepared by your past.
 > <i class="fa fa-quote-right"></i>
+> <span>&mdash; Unknown</span>
+<!-- .element: class="quote-source" -->
 
 Note:
 - to talk about where we are going, we must acknowledge where we have been and where we are now
@@ -123,6 +125,11 @@ Note:
 
 ## Present
 <!-- .element: class="heading" -->
+> <i class="fa fa-quote-left"></i>
+> Look closely at the present you are constructing. It should look like the future you are dreaming.
+> <i class="fa fa-quote-right"></i>
+> <span>&mdash; Alice Walker</span>
+<!-- .element: class="quote-source" -->
 
 Note:
 - What has happened in the past few months?

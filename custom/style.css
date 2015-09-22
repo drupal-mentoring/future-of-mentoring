@@ -76,6 +76,12 @@ h2.hidden {
   margin: .75em 0 0 0;
   display: block;
   letter-spacing: 0;
+  font-weight: 700;
+}
+i.fa-quote-right,
+i.fa-quote-left,
+.reveal blockquote .quote-source {
+  color: #888;
 }
 
 .reveal blockquote h1,

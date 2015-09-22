@@ -2,27 +2,27 @@
   font-family: 'Gentium Book Basic';
   font-weight: 400;
   font-style: normal;
-  src: url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.eot');
-  src: url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.eot?#iefix') format('embedded-opentype'),
+  src: url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.eot');
+  src: url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.eot?#iefix') format('embedded-opentype'),
        local('Gentium Book Basic'),
        local('Gentium-Book-Basic-regular'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.woff2') format('woff2'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.woff') format('woff'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.ttf') format('truetype'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.svg#GentiumBookBasic') format('svg');
+       url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.woff2') format('woff2'),
+       url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.woff') format('woff'),
+       url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.ttf') format('truetype'),
+       url('../fonts/Gentium-Book-Basic-regular/Gentium-Book-Basic-regular.svg#GentiumBookBasic') format('svg');
 }
 
 @font-face {
   font-family: 'Gentium Book Basic';
   font-weight: 400;
   font-style: italic;
-  src: url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.eot');
-  src: url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.eot?#iefix') format('embedded-opentype'),
+  src: url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.eot');
+  src: url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.eot?#iefix') format('embedded-opentype'),
        local('Gentium Book Basic Italic'),
        local('Gentium-Book-Basic-italic'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.woff2') format('woff2'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.woff') format('woff'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.ttf') format('truetype'),
-       url('/custom/gentium-book-basic/fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.svg#GentiumBookBasic') format('svg');
+       url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.woff2') format('woff2'),
+       url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.woff') format('woff'),
+       url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.ttf') format('truetype'),
+       url('../fonts/Gentium-Book-Basic-italic/Gentium-Book-Basic-italic.svg#GentiumBookBasic') format('svg');
 }
 

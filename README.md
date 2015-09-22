@@ -87,11 +87,23 @@ Note:
 
 
 ### 2013
-- Drupal.org upgraded to D7, caused the lack of drupalmentoring.org.
-- Now people wrotes on the comments what they are planning to do
+- Drupal.org upgraded to D7, caused the drupalmentoring.org to not be used
+- Now participants wrote comment on issue of what they are planning to do
 
 Note:
 - The upgrade broke the JSON feature, breaking drupalmentoring.org
+- Before, the assigned field was used to indicate when people started writing
+  code, and dm.o used for new contributors to say they were starting other tasks
+- Now, needed a way to say "I'm starting on a task", and since many tasks
+  assigned field not usable for that. (And, when an issue has someone assigned
+  other people *will not* work on an issue (usually), even if it was assigned
+  a long time ago, and that can block progress on an issue.)
+- This change in behavior has many benefits, as it helps participants conquer
+  their fear of making a comment early, while with a mentor. *and* is more
+  communicative and people can work on different tasks simultaneously. *and*
+  it happens where the whole community can see it, not just on dm.o, allowing
+  for less duplicate work, and more exposing of mentoring integrated into the
+  normal workflow.
 
 
 

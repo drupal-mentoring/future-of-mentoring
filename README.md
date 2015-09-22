@@ -225,6 +225,8 @@ Note:
 
 ##### Mentor MailChimp integration with events.drupal.org
 
+
+
 ##### 2572663
 <a href="https://www.drupal.org/node/2572663">Integrate Mentor sign-up with
 MailChimp list</a>
@@ -237,6 +239,8 @@ Note:
 
 
 ##### Automate html list of mentors on events.drupal.org
+
+
 
 ##### 2239073
 <a href="https://www.drupal.org/node/2239073">Figure out how to automatically
@@ -274,6 +278,18 @@ Note:
 
 
 #### Have instructions on the issue for how to work on the issue
+
+
+
+##### 2013222
+<a href="https://www.drupal.org/node/2013222">Add "Issue tasks" to project
+issues and correlate tasks with handbook documentation</a>
+
+
+
+##### 2193871
+<a href="https://www.drupal.org/node/2193871">Create an Action Block for Short
+Messages for Users & Visitors</a>
 
 
 

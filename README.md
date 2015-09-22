@@ -205,11 +205,7 @@ Note:
 
 
 
-### Measures of successful mentoring
-
-
-
-### To accomplish the vision
+<!-- .slide: data-background-video="custom/2015-future.mp4" -->
 
 
 
@@ -220,6 +216,14 @@ Note:
     Mentors have skills that would be better used on tasks that need thought.
     Use automation to free up the mentors to mentor, or do other process
     improvements.
+
+
+
+### Measures of successful mentoring
+
+
+
+### To accomplish the vision
 
 
 

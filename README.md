@@ -76,7 +76,7 @@ Note:
 
 ### 2012
 - First contributor tasks document
-- First DrupalCon sprints: Core Office Hours Sprint
+- First DrupalCon sprint day
 - Live commit
 - drupalmentoring.org
 
@@ -89,11 +89,12 @@ Note:
 
 
 ### 2013
-- Drupal.org upgraded to D7, caused the drupalmentoring.org to not be used
-- Now participants wrote comment on issue of what they are planning to do
+- Drupal.org upgraded to D7
+- Drupal.org upgrade broke drupalmentoring.org
+- Contributors write comments with what they will do
 
 Note:
-- The upgrade broke the JSON feature, breaking drupalmentoring.org
+- The upgrade removed the JSON feature, breaking drupalmentoring.org
 - Before, the assigned field was used to indicate when people started writing
   code, and dm.o used for new contributors to say they were starting other tasks
 - Now, needed a way to say "I'm starting on a task", and since many tasks

@@ -2,11 +2,10 @@
 
 
 
-
 # Future of Mentoring
 ### DrupalCon Barcelona 2015
 
-### David Hernández, Alina Mackenzie, Cathy Theys
+David Hernández, Alina Mackenzie, Cathy Theys
 
 
 
@@ -15,6 +14,13 @@
 Note:
 - Follow along: slides and speaker notes available online
 - Presentation is done in reveal.js and is available on github.com
+
+
+
+## [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
+
+Note:
+- Google doc for collaborative notes
 
 
 
@@ -37,6 +43,16 @@ Note:
 Note:
 - system administrator and web developer based in Chicago
 - working with Drupal ~4 years since Drupal 7, involved with community ~2 years
+
+
+
+## Cathy Theys
+
+<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
+<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
+
+Note:
+- About presenter
 
 
 
@@ -211,17 +227,6 @@ Note:
 
 
 
-## Cathy Theys
-
-<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
-<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
-
-Note:
-- About presenter
-
-
-
-
 ## Vision of the future
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
@@ -363,3 +368,18 @@ Note:
 ## Conversation
 <!-- .element: class="hidden" -->
 <i class="fa fa-comments-o fa-5x" style="color: #00FF40;"></i>
+
+Note: Conversation starters
+- ...
+
+
+
+## <i class="fa fa-heart"></i> Thank you
+<!-- .element: class="heading" -->
+
+- [events.drupal.org/node/4927](https://events.drupal.org/node/4927)
+- [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
+
+Note:
+- Rate our session!
+- Let's all take notes!

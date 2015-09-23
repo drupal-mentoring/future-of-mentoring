@@ -20,11 +20,12 @@ Note:
 
 ## David Hernández
 
-<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i>David Hernández</a> /
+<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernández</a> /
 <a href="https://twitter.com/david_baltha"><i class="fa fa-twitter"></i> david_baltha</a>
 
 Note:
-- Local group organizer, part of the spanish community, experienced mentor.
+- Drupal developer for +6 years.
+- Local group organizer, part of the spanish community, mentor.
 
 
 
@@ -61,8 +62,8 @@ Note:
 - Spreadsheet to track attendance and skill level
 
 Note:
-- xjm starts the Issue summary initiative.
-- catch with xjm support starts the IRC Office hours to do triaging.
+- xjm (Jess) starts the Issue summary initiative.
+- catch (Nathaniel) with xjm support starts the IRC Office hours to do triaging.
 - Usage of “needs...” tags starts to get more used thanks to Office Hours
 
 
@@ -74,9 +75,9 @@ Note:
 - drupalmentoring.org
 
 Note:
-- jhodgdon creates first contributor tasks document as central place for people
+- jhodgdon (Jennifer) creates first contributor tasks document as central place for people
   to find out how they could contribute to Drupal.
-- DrupalCon Denver has the first Friday sprint Called Core Office hours sprint,
+- DrupalCon Denver has the first Friday sprint called Core Office hours sprint,
   with two rooms, one general sprints and one mentored.
 - There was a live commit from the first sprint.
 - xjm builds drupalmentoring.org to build a community around it and where people
@@ -98,7 +99,7 @@ Note:
   other people *will not* work on an issue (usually), even if it was assigned
   a long time ago, and that can block progress on an issue.)
 - This change in behavior has many benefits, as it helps participants conquer
-  their fear of making a comment early, while with a mentor. *and* is more
+  their fear of making a comment early, while with a mentor *and* is more
   communicative and people can work on different tasks simultaneously. *and*
   it happens where the whole community can see it, not just on dm.o, allowing
   for less duplicate work, and more exposing of mentoring integrated into the
@@ -119,7 +120,6 @@ Note:
 - Acquia Dev Desktop, allowed people to quickly start contributing on the sprints.
 - First appearance on Drupal South, NZ and refined over next Cons. Explain what
   The cards are.
-
 
 
 
@@ -145,7 +145,6 @@ At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
 - documented *all* of the sprint planning tasks
 - DA staff began implementing sprint planning tasks for LA
 - Financial support: sprint task cards, stickers, lunch, (more) signs, booth
-
 
 
 
@@ -179,7 +178,6 @@ docs, another site, trello)
 
 Note:
 1. used at Mentor Orientation: dramatic reading to engage attendees
-1.
 1. describe responsibilities: Sprint and Planning, Sprint Room, Booth, Communications, First Time Sprinter, Novice Issue Triage
 
 
@@ -210,7 +208,6 @@ Note:
 
 
 
-
 ## Cathy Theys
 
 <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
@@ -218,7 +215,6 @@ Note:
 
 Note:
 - About presenter
-
 
 
 

@@ -171,6 +171,7 @@ At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
 - DA provides DrupalCon tickets for experienced mentors
 
 
+
 ### [groups.drupal.org/mentoring](http://groups.drupal.org/mentoring)
 
 Note:

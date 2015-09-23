@@ -6,6 +6,8 @@
 # Future of Mentoring
 ### DrupalCon Barcelona 2015
 
+### David Hernández, Alina Mackenzie, Cathy Theys
+
 
 
 ## [bit.ly/future-mentoring](http://bit.ly/future-mentoring)
@@ -18,7 +20,7 @@ Note:
 
 ## David Hernández
 
-<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernández</a> /
+<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i>David Hernández</a> /
 <a href="https://twitter.com/david_baltha"><i class="fa fa-twitter"></i> david_baltha</a>
 
 Note:
@@ -35,7 +37,8 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- to talk about where we are going, we must acknowledge where we have been and where we are now
+- to talk about where we are going, we must acknowledge where we have been and
+  where we are now
 
 
 
@@ -46,7 +49,7 @@ Note:
 - Spreadsheet to track attendance and skill level
 
 Note:
-- xjm starts teh Issue summary initiative.
+- xjm starts the Issue summary initiative.
 - catch with xjm support starts the IRC Office hours to do triaging.
 - Usage of “needs...” tags starts to get more used thanks to Office Hours
 
@@ -59,10 +62,13 @@ Note:
 - drupalmentoring.org
 
 Note:
-- jhodgdon creates first contributor tasks document as central place for people to find out how they could contribute to Drupal.
-- DrupalCon Denver has the first Friday sprint Called Core Office hours sprint, with two rooms, one general sprints and one mentored.
+- jhodgdon creates first contributor tasks document as central place for people
+  to find out how they could contribute to Drupal.
+- DrupalCon Denver has the first Friday sprint Called Core Office hours sprint,
+  with two rooms, one general sprints and one mentored.
 - There was a live commit from the first sprint.
-- xjm builds drupalmentoring.org to build a community around it and where people could share attendance lists, tasks, mentors...
+- xjm builds drupalmentoring.org to build a community around it and where people
+  could share attendance lists, tasks, mentors...
 
 
 
@@ -90,15 +96,17 @@ Note:
 
 ### 2014
 - Dreditor remaining tasks template
-- 4th mentored sprint, with mentor t-shirts
+- Mentor t-shirts
 - Acquia Dev Desktop
 - Contributor task cards
 
 Note:
 - Dreditor added the button to add the remaining tasks template.
-- The 4th mentored strint happened in Portland and it was the first one where the DA provided mentored sprints.
+- The 4th mentored strint happened in Portland and it was the first one where
+  the DA provided mentored sprints.
 - Acquia Dev Desktop, allowed people to quickly start contributing on the sprints.
-- First appearance on Drupal South, NZ and refined over next Cons.
+- First appearance on Drupal South, NZ and refined over next Cons. Explain what
+  The cards are.
 
 
 
@@ -138,7 +146,8 @@ Note:
 ### [groups.drupal.org/mentoring](http://groups.drupal.org/mentoring)
 
 Note:
-goal: make mentoring wisdom more distributed and the activities that are being done more transparent
+goal: make mentoring wisdom more distributed and the activities that are being
+done more transparent
 - announce monthly mentor meetings
 - post meeting minutes
 
@@ -147,7 +156,9 @@ goal: make mentoring wisdom more distributed and the activities that are being d
 ### [drupal.org/project/mentoring](https://www.drupal.org/project/mentoring)
 
 Note:
-goal: having the todo lists discoverable and any d.o user able to comment, edit and work on them without having to get permission in a separate system (google docs, another site, trello)
+goal: having the todo lists discoverable and any d.o user able to comment, edit
+and work on them without having to get permission in a separate system (google
+docs, another site, trello)
 - track tasks as issues
 
 
@@ -164,7 +175,9 @@ Note:
 
 Note:
 - Los Angeles 2015, core commit happened around 2pm, earliest ever
-- Core mentored sprint room emptied out, remaining first time contributors join general sprint room and continue their work together with experienced contributors and initiative leads
+- Core mentored sprint room emptied out, remaining first time contributors join
+  general sprint room and continue their work together with experienced
+  contributors and initiative leads
 
 
 
@@ -179,7 +192,8 @@ Note:
 
 Note:
 - Drupal success with getting new contributors involved and mentoring
-- other open source projects interested and investigating drupal mentoring techniques
+- other open source projects interested and investigating drupal mentoring
+  techniques
 
 
 
@@ -304,7 +318,8 @@ Messages for Users & Visitors</a>
 
 
 ##### 2572061
-<a href="https://www.drupal.org/node/2572061">Add a dismissable notification when somebody goes to a core issue while in RC</a>
+<a href="https://www.drupal.org/node/2572061">Add a dismissable notification
+when somebody goes to a core issue while in RC</a>
 
 
 

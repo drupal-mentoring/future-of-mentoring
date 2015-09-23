@@ -47,6 +47,16 @@ Note:
 
 
 
+## Cathy Theys
+
+<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
+<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
+
+Note:
+- About presenter
+
+
+
 ## Past
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
@@ -211,16 +221,6 @@ Note:
 - Drupal success with getting new contributors involved and mentoring
 - other open source projects interested and investigating drupal mentoring
   techniques
-
-
-
-## Cathy Theys
-
-<a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
-<a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
-
-Note:
-- About presenter
 
 
 

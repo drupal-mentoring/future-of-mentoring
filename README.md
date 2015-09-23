@@ -28,6 +28,18 @@ Note:
 
 
 
+<!-- .slide: data-background="custom/images/chicago.jpg" style="text-align: right;" -->
+## Alina Mackenzie
+
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a> /
+<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
+
+Note:
+- system administrator and web developer based in Chicago
+- working with Drupal ~4 years since Drupal 7, involved with community ~2 years
+
+
+
 ## Past
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
@@ -108,15 +120,6 @@ Note:
 - First appearance on Drupal South, NZ and refined over next Cons. Explain what
   The cards are.
 
-
-
-## Alina Mackenzie
-
-<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a> /
-<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
-
-Note:
-- About presenter
 
 
 

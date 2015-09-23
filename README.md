@@ -43,7 +43,7 @@ Note:
 ## Past
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
-> You are not defined by your past. You are prepared by your past.
+> You are not defined by your past. You are <span class="highlight">prepared by your past.</span>
 > <i class="fa fa-quote-right"></i>
 > <span>&mdash; Unknown</span>
 <!-- .element: class="quote-source" -->
@@ -126,7 +126,9 @@ Note:
 ## Present
 <!-- .element: class="heading" -->
 > <i class="fa fa-quote-left"></i>
-> Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why we call it the present.
+> Yesterday is history. Tomorrow is a mystery.
+> <span class="highlight">Today is a gift.</span>
+> That’s why we call it the present.
 > <i class="fa fa-quote-right"></i>
 > <span>&mdash; Bil Keane</span>
 <!-- .element: class="quote-source" -->

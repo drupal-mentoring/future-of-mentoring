@@ -129,15 +129,22 @@ Note:
 
 
 ### 2014
-- Dreditor remaining tasks template
 - Mentor t-shirts
+- Dreditor remaining tasks template
 - Acquia Dev Desktop
 - Contributor task cards
 
 Note:
-- Dreditor added the button to add the remaining tasks template.
 - The 4th mentored strint happened in Portland and it was the first one where
   the DA provided mentored sprints.
+- Dreditor added the button to add the remaining tasks template.
+- Mentors in the past would help people set up dev environments,
+  each was different.
+- Brian Gilbert (realityloop) had a goal to pick some standard set of tools that were likely to work
+  on a wide variety of machines and were good enough to get people started
+  on a sprint day.
+- Acquia Dev Desktop was not usable for that, for Drupal 8. Brian, and
+  scor worked very closely with Acquia to get ADD beta ready for an upcoming sprint in time.
 - Acquia Dev Desktop, allowed people to quickly start contributing on the sprints.
 - First appearance on Drupal South, NZ and refined over next Cons. Explain what
   The cards are.

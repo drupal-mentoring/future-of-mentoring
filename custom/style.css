@@ -1,4 +1,6 @@
-
+body {
+  background: #000;
+}
 .reveal section img {
   border: 0;
   background: none;
@@ -104,9 +106,11 @@ i.fa-quote-left,
 footer .branding--logo {
   display: inline-block;
   float: left;
-  margin-left: 1em;
+  width: 100%;
   font-size: .45em;
+  padding: 0 2em;
   position: absolute;
+  background: rgba(0,0,0,0.6);
   bottom: 0em; }
 footer .logo__image {
   display: inline-block; }

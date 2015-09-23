@@ -2,11 +2,10 @@
 
 
 
-
 # Future of Mentoring
 ### DrupalCon Barcelona 2015
 
-### David Hernández, Alina Mackenzie, Cathy Theys
+David Hernández, Alina Mackenzie, Cathy Theys
 
 
 
@@ -15,6 +14,13 @@
 Note:
 - Follow along: slides and speaker notes available online
 - Presentation is done in reveal.js and is available on github.com
+
+
+
+## [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
+
+Note:
+- Google doc for collaborative notes
 
 
 
@@ -242,9 +248,6 @@ Note:
 
 
 
-### Measures of successful mentoring
-
-
 
 ### To accomplish the vision
 
@@ -359,3 +362,18 @@ Note:
 ## Conversation
 <!-- .element: class="hidden" -->
 <i class="fa fa-comments-o fa-5x" style="color: #00FF40;"></i>
+
+Note: Conversation starters
+- ...
+
+
+
+## <i class="fa fa-heart"></i> Thank you
+<!-- .element: class="heading" -->
+
+- [events.drupal.org/node/4927](https://events.drupal.org/node/4927)
+- [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
+
+Note:
+- Rate our session!
+- Let's all take notes!

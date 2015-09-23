@@ -251,9 +251,6 @@ Note:
 
 
 
-### Measures of successful mentoring
-
-
 
 ### To accomplish the vision
 

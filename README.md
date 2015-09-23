@@ -249,6 +249,7 @@ Note:
 Note:
 - reintroduce yourself
 - coming up: 2015.. you mean we're in the future??
+- generally describe vision
 
 
 
@@ -259,6 +260,10 @@ Note:
 
 
 
+### To accomplish the vision
+
+
+
 #### Moar automation
 
 Note:
@@ -266,11 +271,6 @@ Note:
     Mentors have skills that would be better used on tasks that need thought.
     Use automation to free up the mentors to mentor, or do other process
     improvements.
-
-
-
-
-### To accomplish the vision
 
 
 
@@ -293,6 +293,7 @@ Note:
 
 Note:
 - we recognize mentors by listing them on the core mentored sprint page on DrupalCon website
+- also having a list of mentors, encourages new contributors to sign up
 
 
 

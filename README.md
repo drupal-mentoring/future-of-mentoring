@@ -36,7 +36,8 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/chicago.jpg" style="text-align: right;" -->
+<!-- .slide: data-background="custom/images/chicago.jpg" style="text-align: right;" data-background-size="1024px" -->
+
 ## Alina Mackenzie
 
 <a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a> /

@@ -21,6 +21,7 @@ Note:
 
 Note:
 - Google doc for collaborative notes
+- Intentify one specific person to take notes during the Q&A
 
 
 
@@ -53,7 +54,9 @@ Note:
 <a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
 
 Note:
-- About presenter
+- Cathy Theys, YesCT. Started 9.5 years ago, have been a mentor for since ..
+  Portland for sure. I work at BlackMesh and it's my fulltime job to
+  work on drupal core.
 
 
 
@@ -78,8 +81,9 @@ Note:
 - Spreadsheet to track attendance and skill level
 
 Note:
+- d.o gets a new feature, editable issue summaries
 - xjm (Jess) starts the Issue summary initiative.
-- catch (Nathaniel) with xjm support starts the IRC Office hours to do triaging.
+- catch (Nathaniel) with xjm support starts weekly IRC Office hours to do triaging.
 - Usage of “needs...” tags starts to get more used thanks to Office Hours
 
 
@@ -150,7 +154,10 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
+- introduce yourself
+- read quote
 - What has happened in the past few months?
+
 
 
 
@@ -161,7 +168,7 @@ At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
 - documented *all* of the sprint planning tasks
 - DA staff began implementing sprint planning tasks for LA
 - Financial support: sprint task cards, stickers, lunch, (more) signs, booth
-
+- DA provides DrupalCon tickets for experienced mentors
 
 
 ### [groups.drupal.org/mentoring](http://groups.drupal.org/mentoring)
@@ -193,6 +200,7 @@ docs, another site, trello)
 - [Mentor lead responsibilities](https://www.drupal.org/core-mentoring/mentored-sprint-leads)
 
 Note:
+1. child pages of drupal.org/core-mentoring
 1. used at Mentor Orientation: dramatic reading to engage attendees
 1. describe responsibilities: Sprint and Planning, Sprint Room, Booth, Communications, First Time Sprinter, Novice Issue Triage
 
@@ -211,16 +219,19 @@ Note:
 ### Communications
 
 Note:
+- first used personal email, then a Google spreadsheet add-on
 - improved mentor communications using MailChimp starting with Bogota
-
+- reusable templates, scheduled emails
 
 
 ### Word is out!
 
 Note:
+- Drupal 7 had 900 contributors with commit mentions, Drupal 8 has over 3000
 - Drupal success with getting new contributors involved and mentoring
-- other open source projects interested and investigating drupal mentoring
+- other open source projects like Docker are interested and investigating drupal mentoring
   techniques
+- bodes well for future
 
 
 

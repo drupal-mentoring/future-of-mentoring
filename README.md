@@ -141,8 +141,9 @@ Note:
 ### Drupal Association support
 
 Note:
+At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
 - documented *all* of the sprint planning tasks
-- DA staff implementing sprint planning tasks
+- DA staff began implementing sprint planning tasks for LA
 - Financial support: sprint task cards, stickers, lunch, (more) signs, booth
 
 
@@ -155,6 +156,7 @@ goal: make mentoring wisdom more distributed and the activities that are being
 done more transparent
 - announce monthly mentor meetings
 - post meeting minutes
+- address questions from mentors
 
 
 
@@ -165,14 +167,20 @@ goal: having the todo lists discoverable and any d.o user able to comment, edit
 and work on them without having to get permission in a separate system (google
 docs, another site, trello)
 - track tasks as issues
+- use Plan issues for documenting overarching tasks and have conference-specfic issues
+- track due dates
 
 
 
 ### Documentation
+- [Mentoring at Drupal events](https://www.drupal.org/core-mentoring/mentoring-at-events)
+- [Mentoring coordinator](https://www.drupal.org/core-mentoring/mentoring-coordinator)
+- [Mentor lead responsibilities](https://www.drupal.org/core-mentoring/mentored-sprint-leads)
 
 Note:
-- [Mentoring at Drupal events]()
-- [Mentor lead responsibilities]()
+1. used at Mentor Orientation: dramatic reading to engage attendees
+1.
+1. describe responsibilities: Sprint and Planning, Sprint Room, Booth, Communications, First Time Sprinter, Novice Issue Triage
 
 
 

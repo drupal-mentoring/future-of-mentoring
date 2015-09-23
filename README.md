@@ -21,7 +21,7 @@ Note:
 
 Note:
 - Google doc for collaborative notes
-- Intentify one specific person to take notes during the Q&A
+- Identify one specific person to take notes during the Q&A
 
 
 
@@ -243,9 +243,16 @@ Note:
 > <span>&mdash; Alan Kay</span>
 <!-- .element: class="quote-source" -->
 
+Note:
+- reintroduce yourself
+- coming up: 2015.. you mean we're in the future??
+
 
 
 <!-- .slide: data-background-video="custom/2015-future.mp4" -->
+
+Note:
+- 2015... you mean we are in the future??
 
 
 
@@ -280,6 +287,9 @@ Note:
 
 
 ##### Automate html list of mentors on events.drupal.org
+
+Note:
+- we recognize mentors by listing them on the core mentored sprint page on DrupalCon website
 
 
 
@@ -366,16 +376,13 @@ Note:
 
 
 
-### Mentors do more "real" mentoring
-
-
-
 ## Conversation
 <!-- .element: class="hidden" -->
 <i class="fa fa-comments-o fa-5x" style="color: #00FF40;"></i>
 
 Note: Conversation starters
-- ...
+- measures of success?
+- "mentors should do real mentoring" - what does that look like?
 
 
 

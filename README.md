@@ -26,6 +26,7 @@ University of Illinois at Chicago
 Note:
 - system administrator and web developer based in Chicago
 - working with Drupal ~4 years since Drupal 7, involved with community ~2 years
+- passions: automation, learning organizations, making participation in OSS open to anyone
 
 
 
@@ -177,8 +178,6 @@ Note:
 <!-- .element: class="quote-source" -->
 
 Note:
-- introduce yourself
-- read quote
 - What has happened in the past few months?
 
 

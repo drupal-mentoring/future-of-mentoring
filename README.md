@@ -17,25 +17,6 @@ Note:
 
 
 
-## [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
-
-Note:
-- Google doc for collaborative notes
-- Identify one specific person to take notes during the Q&A
-
-
-
-## David Hernández
-
-<a href="https://www.drupal.org/u/david-hernández"><i class="fa fa-drupal"></i> David Hernández</a> /
-<a href="https://twitter.com/david_baltha"><i class="fa fa-twitter"></i> david_baltha</a>
-
-Note:
-- Drupal developer for +6 years.
-- Local group organizer, part of the spanish community, mentor.
-
-
-
 <!-- .slide: data-background="custom/images/chicago.jpg" style="text-align: right;" data-background-size="1024px" -->
 
 ## Alina Mackenzie

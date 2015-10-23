@@ -3,9 +3,8 @@
 
 
 # Future of Mentoring
-### BADCamp 2015
-
-Alina Mackenzie, Cathy Theys
+## BADCamp 2015
+### Alina Mackenzie <i class="fa fa-star"></i> Cathy Theys
 
 
 

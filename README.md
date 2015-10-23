@@ -24,6 +24,8 @@ Note:
 <a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a> /
 <a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
 
+University of Illinois at Chicago
+
 Note:
 - system administrator and web developer based in Chicago
 - working with Drupal ~4 years since Drupal 7, involved with community ~2 years
@@ -34,6 +36,8 @@ Note:
 
 <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a> /
 <a href="https://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
+
+BlackMesh
 
 Note:
 - Cathy Theys, YesCT. Started 9.5 years ago, have been a mentor for since ..

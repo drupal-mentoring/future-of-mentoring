@@ -56,6 +56,10 @@ h2.hidden {
   display: none;
 }
 
+.reveal h3 {
+  color: #888;
+}
+
 .reveal blockquote {
   font-family: 'Gentium Book Basic', serif;
   background-color: rgba(0, 0, 0, 0.65);
@@ -84,7 +88,7 @@ h2.hidden {
 i.fa-quote-right,
 i.fa-quote-left,
 .reveal blockquote .quote-source {
-  color: #888;
+  color: #3ac292;
 }
 
 .reveal blockquote h1,
@@ -100,7 +104,7 @@ i.fa-quote-left,
 }
 
 .highlight {
-  background-color: #00FF40;
+  background-color: #3ac292;
   color: #212121;
 }
 

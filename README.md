@@ -57,17 +57,50 @@ Note:
 
 
 
-### 2011
-- Issue summary initiative
-- IRC Office Hours
-- Usage of “needs...” tags
-- Spreadsheet to track attendance and skill level
+## 2011
+
+
+
+### Issue summary initiative
 
 Note:
-- d.o gets a new feature, editable issue summaries
-- xjm (Jess) starts the Issue summary initiative.
-- catch (Nathaniel) with xjm support starts weekly IRC Office hours to do triaging.
-- Usage of “needs...” tags starts to get more used thanks to Office Hours
+- d.o gets a new feature: editable issue summaries
+- xjm (Jess) starts the Issue summary initiative
+
+
+
+<!-- .slide: data-background="custom/images/issue-summary.png" -->
+
+Note:
+- anyone can update the issue summary
+- overview of the problem, steps to reproduce, screenshots, proposed resolution
+- why? encourage contribution by increasing understanding of the issue
+
+
+
+### IRC office hours
+
+
+
+<!-- .slide: data-background="custom/images/office-hours.png" -->
+
+Note:
+- catch (Nathaniel) with xjm support starts weekly IRC Office hours to do triaging
+- regular time, online
+- requires familiarity with IRC
+
+
+
+### “Needs...” tags
+
+
+
+<!-- .slide: data-background="custom/images/needs-tags.png" -->
+
+Note:
+- Usage of “needs...” tags starts to get more used thanks to office hours
+- tags identify a task that needs to be done
+- once task is completed, remove tags
 
 
 

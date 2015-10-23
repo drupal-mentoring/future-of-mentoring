@@ -105,32 +105,59 @@ Note:
 
 
 
-### 2012
-- First contributor tasks document
-- First DrupalCon sprint day
-- Live commit
-- drupalmentoring.org
+## 2012
+
+
+
+### Contributor tasks
 
 Note:
 - jhodgdon (Jennifer) creates first contributor tasks document as central place for people
   to find out how they could contribute to Drupal.
-- DrupalCon Denver has the first Friday sprint called Core Office hours sprint,
-  with two rooms, one general sprints and one mentored.
-- There was a live commit from the first sprint.
-- xjm builds drupalmentoring.org to build a community around it and where people
-  could share attendance lists, tasks, mentors...
 
 
 
-### 2013
-- Drupal.org upgraded to D7
-- Drupal.org upgrade broke drupalmentoring.org
-- Contributors write comments with what they will do
+### DrupalCon sprint day
 
 Note:
+- DrupalCon Denver has the first Friday sprint called Core Office hours sprint,
+  with two rooms, one general sprints and one mentored.
+
+
+
+<!-- .slide: data-background="custom/images/live-commit.jpg" -->
+
+Note:
+- There was a live commit from the first sprint.
+
+
+
+### drupalmentoring.org
+
+Note:
+- xjm builds drupalmentoring.org to build a community around it and where people
+  could share attendance lists, tasks, mentors...
+- separate site form drupal.org, allowed for rapid development and customization
+
+
+
+## 2013
+
+
+
+### drupal.org upgrade
+
+Note:
+- Drupal.org upgrade broke drupalmentoring.org
 - The upgrade removed the JSON feature, breaking drupalmentoring.org
-- Before, the assigned field was used to indicate when people started writing
   code, and dm.o used for new contributors to say they were starting other tasks
+
+
+
+### Say it in words
+
+Note:
+- Before, the assigned field was used to indicate when people started writing
 - Now, needed a way to say "I'm starting on a task", and since many tasks
   assigned field not usable for that. (And, when an issue has someone assigned
   other people *will not* work on an issue (usually), even if it was assigned
@@ -144,16 +171,36 @@ Note:
 
 
 
-### 2014
-- Mentor t-shirts
-- Dreditor remaining tasks template
-- Acquia Dev Desktop
-- Contributor task cards
+## 2014
+
+
+
+### T-shirts
+
+
+
+<!-- .slide: data-background="custom/images/mentor-tshirt.jpg" -->
 
 Note:
 - The 4th mentored strint happened in Portland and it was the first one where
-  the DA provided mentored sprints.
+  the DA provided T-shirts for mentors.
+- Typically bright color, easy to spot T shirt.
+
+
+
+### Remaining tasks template
+Note:
 - Dreditor added the button to add the remaining tasks template.
+
+
+
+<!-- .slide: data-background="custom/images/remaining-tasks.png" -->
+
+
+
+### Tools
+
+Note:
 - Mentors in the past would help people set up dev environments,
   each was different.
 - Brian Gilbert (realityloop) had a goal to pick some standard set of tools that were likely to work
@@ -162,8 +209,13 @@ Note:
 - Acquia Dev Desktop was not usable for that, for Drupal 8. Brian, and
   scor worked very closely with Acquia to get ADD beta ready for an upcoming sprint in time.
 - Acquia Dev Desktop, allowed people to quickly start contributing on the sprints.
-- First appearance on Drupal South, NZ and refined over next Cons. Explain what
-  The cards are.
+
+
+
+### Task cards
+
+Note:
+- First appearance on Drupal South, NZ and refined over next Cons.
 
 
 

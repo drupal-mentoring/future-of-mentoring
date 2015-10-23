@@ -1,4 +1,4 @@
-<!-- .slide: data-background="custom/images/barcelona-splash.jpg" -->
+<!-- .slide: data-background="custom/images/badcamp-logo.png" data-background-size="454px" data-background-repeat="repeat" -->
 
 
 

@@ -214,8 +214,14 @@ Note:
 
 ### Task cards
 
+
+
+<!-- .slide: data-background="custom/images/contributor-cards.jpg" -->
 Note:
 - First appearance on Drupal South, NZ and refined over next Cons.
+- 5-7 cards with discrete tasks
+- Explorer, Developer, Community Contributor, Documenter, Mentor
+- tangible artifact, suggested paths
 
 
 
@@ -236,6 +242,10 @@ Note:
 
 
 ### Drupal Association support
+
+
+
+<!-- .slide: data-background="custom/images/sprint-food.jpg" -->
 
 Note:
 At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
@@ -259,6 +269,9 @@ done more transparent
 
 ### [drupal.org/project/mentoring](https://www.drupal.org/project/mentoring)
 
+
+
+<!-- .slide: data-background="custom/images/mentoring-project.png" -->
 Note:
 goal: having the todo lists discoverable and any d.o user able to comment, edit
 and work on them without having to get permission in a separate system (google
@@ -283,6 +296,12 @@ Note:
 
 ### Integration with general sprint
 
+Note:
+- general sprint and mentored core sprint
+
+
+
+<!-- .slide: data-background="custom/images/sprint-food.jpg" -->
 Note:
 - Los Angeles 2015, core commit happened around 2pm, earliest ever
 - Core mentored sprint room emptied out, remaining first time contributors join

@@ -3,9 +3,9 @@
 
 
 # Future of Mentoring
-### DrupalCon Barcelona 2015
+### BADCamp 2015
 
-David Hernández, Alina Mackenzie, Cathy Theys
+Alina Mackenzie, Cathy Theys
 
 
 

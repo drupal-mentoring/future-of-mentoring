@@ -159,13 +159,15 @@ Note:
 
 
 ## 2013
+Note:
+- Big changes in 2013...
 
 
 
 ### drupal.org upgrade
 
 Note:
-- Drupal.org upgrade broke drupalmentoring.org
+- Drupal.org upgrade to Drupal 7 broke drupalmentoring.org
 - The upgrade removed the JSON feature, breaking drupalmentoring.org
   code, and dm.o used for new contributors to say they were starting other tasks
 

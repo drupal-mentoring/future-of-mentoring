@@ -196,10 +196,6 @@ Note:
 
 
 
-## 2014
-
-
-
 ### T-shirts
 
 
@@ -210,6 +206,10 @@ Note:
 - The 4th mentored strint happened in Portland and it was the first one where
   the DA provided T-shirts for mentors.
 - Typically bright color, easy to spot T shirt.
+
+
+
+## 2014
 
 
 

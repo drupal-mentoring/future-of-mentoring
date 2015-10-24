@@ -93,6 +93,8 @@ Note:
 
 
 ### “Needs...” tags
+Note:
+- Various “needs...”tags existed prior to mentoring initiatives
 
 
 
@@ -111,6 +113,8 @@ Note:
 
 ### Contributor tasks
 
+[drupal.org/contributor-tasks](http://www.drupal.org/contributor-tasks)
+
 Note:
 - jhodgdon (Jennifer) creates first contributor tasks document as central place for people
   to find out how they could contribute to Drupal.
@@ -125,7 +129,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/live-commit.jpg" -->
+<!-- .slide: data-background="custom/images/live-commit.jpg" data-state="show-header" data-header="Photo CC-BY Pedro Lozano https://flic.kr/p/y7SCeW" -->
 
 Note:
 - There was a live commit from the first sprint.
@@ -154,7 +158,7 @@ Note:
 
 
 
-### Say it in words
+### Say it with words
 
 Note:
 - Before, the assigned field was used to indicate when people started writing
@@ -162,6 +166,12 @@ Note:
   assigned field not usable for that. (And, when an issue has someone assigned
   other people *will not* work on an issue (usually), even if it was assigned
   a long time ago, and that can block progress on an issue.)
+
+
+
+
+<!-- .slide: data-background="custom/images/say-it.png" -->
+Note:
 - This change in behavior has many benefits, as it helps participants conquer
   their fear of making a comment early, while with a mentor *and* is more
   communicative and people can work on different tasks simultaneously. *and*
@@ -179,7 +189,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/mentor-tshirt.jpg" -->
+<!-- .slide: data-background="custom/images/mentor-tshirt.jpg" data-state="show-header" data-header="Photo CC-BY Pedro Lozano https://flic.kr/p/yMhWKy" -->
 
 Note:
 - The 4th mentored strint happened in Portland and it was the first one where
@@ -245,7 +255,7 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/sprint-food.jpg" -->
+<!-- .slide: data-background="custom/images/sprint-food.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/zhiCAT" -->
 
 Note:
 At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
@@ -301,12 +311,18 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/sprint-food.jpg" -->
+<!-- .slide: data-background="custom/images/mentoring.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/yYWFWx" -->
 Note:
 - Los Angeles 2015, core commit happened around 2pm, earliest ever
 - Core mentored sprint room emptied out, remaining first time contributors join
   general sprint room and continue their work together with experienced
   contributors and initiative leads
+
+
+
+<!-- .slide: data-background="custom/images/general-sprint.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/ze9AHf" -->
+Note:
+- Goal is to integrate first time sprinters into the general sprint room
 
 
 
@@ -316,6 +332,19 @@ Note:
 - first used personal email, then a Google spreadsheet add-on
 - improved mentor communications using MailChimp starting with Bogota
 - reusable templates, scheduled emails
+
+
+
+<!-- .slide: data-background="custom/images/sprint-stickies.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/y8a4gB" -->
+Note:
+- Continuous adaptation: using sticky notes to indicate need of assistance
+
+
+
+<!-- .slide: data-background="custom/images/tshirt-tape.jpg" data-state="show-header" data-header="Photo CC-BY-SA Jared Smith https://flic.kr/p/rzSxLL" -->
+Note:
+- Another adaptation: decorating T-shirts with tape
+- Promotes creativity, fun, team bonding
 
 
 

@@ -153,7 +153,8 @@ Note:
 Note:
 - xjm builds drupalmentoring.org to build a community around it and where people
   could share attendance lists, tasks, mentors...
-- separate site form drupal.org, allowed for rapid development and customization
+- separate site from drupal.org
+- agile: allowed for rapid development and customization
 
 
 

@@ -6,6 +6,13 @@
 ## BADCamp 2015
 ### Alina Mackenzie <i class="fa fa-star"></i> Cathy Theys
 
+Note:
+To use presentation:
+- `git clone git@github.com:drupal-mentoring/future-of-mentoring.git`
+- `cd future-of-mentoring`
+- `php -S localhost:8000`
+- open browser [http://localhost:8000](http://localhost:8000) or [http://bit.ly/future-mentoring](http://bit.ly/future-mentoring) (network connection required)
+
 
 
 ## [bit.ly/future-mentoring](http://bit.ly/future-mentoring)

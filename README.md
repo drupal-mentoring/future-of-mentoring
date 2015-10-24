@@ -67,6 +67,8 @@ Note:
 
 
 ## 2011
+Note:
+- several smaller initiatives put mentoring on the map as key part of the project
 
 
 
@@ -141,6 +143,8 @@ Note:
 
 Note:
 - There was a live commit from the first sprint.
+- Live commit is a fun and exciting activity that brings contributors together to talk about their roles and what they did to solve an issue
+- Core committer reads and explains the patch, then commits the code changes to Drupal
 
 
 

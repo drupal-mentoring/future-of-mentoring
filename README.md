@@ -27,6 +27,7 @@ Note:
 - system administrator and web developer based in Chicago
 - working with Drupal ~4 years since Drupal 7, involved with community ~2 years
 - passions: automation, learning organizations, making participation in OSS open to anyone
+- organization that facilitates the learning of its members and continuously transforms itself
 
 
 
@@ -503,7 +504,7 @@ Note:
 
 ## Conversation
 <!-- .element: class="hidden" -->
-<i class="fa fa-comments-o fa-5x" style="color: #00FF40;"></i>
+<i class="fa fa-comments-o fa-5x" style="color: #3ac292;"></i>
 
 Note: Conversation starters
 - measures of success?
@@ -514,9 +515,9 @@ Note: Conversation starters
 ## <i class="fa fa-heart"></i> Thank you
 <!-- .element: class="heading" -->
 
-- [events.drupal.org/node/4927](https://events.drupal.org/node/4927)
-- [bit.ly/future-mentoring-notes](http://bit.ly/future-mentoring-notes)
+<a href="http://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
+<i class="fa fa-star"></i>
+<a href="http://twitter.com/YesCT"><i class="fa fa-twitter"></i> YesCT</a>
 
 Note:
-- Rate our session!
-- Let's all take notes!
+- Tweet us your mentoring stories and feedback

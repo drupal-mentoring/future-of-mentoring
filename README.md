@@ -275,6 +275,7 @@ At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
 - documented *all* of the sprint planning tasks
 
 
+
 <!-- .slide: data-background="custom/images/sprint-food.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/zhiCAT" -->
 
 Note:

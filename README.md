@@ -442,7 +442,7 @@ Note:
 generate list of mentors HTML</a>
 
 Note:
-  - Right now, the communication lead also copy and pastes out of that same
+  - We used to have the communication lead also copy and pastes out of that same
     email and manually edits the list of mentors. We have views, and there is
     no need to wait for "human approval" of mentors. Let's automate it.
 

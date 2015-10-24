@@ -238,6 +238,8 @@ Note:
 
 
 ### Task cards
+Note:
+- People like swag.
 
 
 
@@ -268,13 +270,14 @@ Note:
 
 ### Drupal Association support
 
+Note:
+At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
+- documented *all* of the sprint planning tasks
 
 
 <!-- .slide: data-background="custom/images/sprint-food.jpg" data-state="show-header" data-header="Photo CC-BY Josef Jerabek https://flic.kr/p/zhiCAT" -->
 
 Note:
-At DrupalCons sprints and mentoring are linked. In Bogotá 2015:
-- documented *all* of the sprint planning tasks
 - DA staff began implementing sprint planning tasks for LA
 - Financial support: sprint task cards, stickers, lunch, (more) signs, booth
 - DA provides DrupalCon tickets for experienced mentors

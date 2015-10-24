@@ -414,21 +414,6 @@ Note:
 
 
 
-##### Mentor MailChimp integration with events.drupal.org
-
-
-
-##### 2572663
-<a href="https://www.drupal.org/node/2572663">Integrate Mentor sign-up with
-MailChimp list</a>
-
-Note:
-  - Right now, after mentor fills out the drupalcon webform, and email gets sent
-    and the mentor communication lead copy and pastes into mailchimp. There is
-    api integration, let's use it.
-
-
-
 ##### Automate html list of mentors on events.drupal.org
 
 Note:
@@ -445,6 +430,21 @@ Note:
   - We used to have the communication lead also copy and pastes out of that same
     email and manually edits the list of mentors. We have views, and there is
     no need to wait for "human approval" of mentors. Let's automate it.
+
+
+
+##### Mentor MailChimp integration with events.drupal.org
+
+
+
+##### 2572663
+<a href="https://www.drupal.org/node/2572663">Integrate Mentor sign-up with
+MailChimp list</a>
+
+Note:
+  - Right now, after mentor fills out the drupalcon webform, and email gets sent
+    and the mentor communication lead copy and pastes into mailchimp. There is
+    api integration, let's use it.
 
 
 
